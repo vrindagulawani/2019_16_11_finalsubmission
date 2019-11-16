@@ -46,6 +46,6 @@ Copy below in nginx.conf to run application on port 7000
   http://localhost:7000
   
   
-Launch swagger documentation with http://localhost:9090/swagger-ui.htm
+Launch swagger documentation with http://localhost:9090/swagger-ui.html
 
 
