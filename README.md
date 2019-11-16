@@ -5,6 +5,8 @@ This is project manager application.
 
 Steps to build and run the application : 
 
+unzip SBA-proejctmanager and SBA-projectmanagerangular zip files
+
 Build spring boot application using below : 
 
 cd SBA-proejctmanager 
